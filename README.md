@@ -1,6 +1,6 @@
 # 嘉文的个人作品集
 
-粉金色黄昏湖面、Three.js 粒子 J、衬线大标题与七个作品。单个 `index.html` 包含内联 CSS 和一个 ES-module 脚本，无需构建。
+粉金色黄昏湖面、Three.js 粒子 J、衬线大标题与六个作品。单个 `index.html` 包含内联 CSS 和一个 ES-module 脚本，无需构建。
 
 ## 本地预览
 
